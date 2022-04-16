@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+#start , #status , #number{
+    font-size: 18px;
+}
+.c_r_f{
+    position: fixed;
+    color: grey;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    line-height: 3;
+    text-align: center;
+}
+img{
+    width: 70px;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 80px;
+    box-shadow: 5px 5px 5px white;
+}
